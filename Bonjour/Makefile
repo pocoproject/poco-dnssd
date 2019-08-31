@@ -14,5 +14,6 @@ objects = \
 target         = PocoDNSSDBonjour
 target_version = 1
 target_libs    = PocoNet PocoDNSSD PocoFoundation
+INCLUDE       += -I../include/
 
 include $(POCO_BASE)/build/rules/lib
