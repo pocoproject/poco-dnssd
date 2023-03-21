@@ -1,6 +1,9 @@
 POCO DNS-SD (Zeroconf) Wrapper Library for Bonjour and Avahi
 ============================================================
 
+**This library has been moved to main [proco libraries](https://github.com/pocoproject/poco), and this place is only for archived.**
+**All contrinution are welcome in main [proco libraries](https://github.com/pocoproject/poco)**
+
 This is a POCO-based wrapper library providing an easy-to-use and
 unified programming interface to Apple Bonjour and Avahi libraries
 implementing DNS Service Discovery (DNS-SD, also known as Zeroconf).
